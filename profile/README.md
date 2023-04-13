@@ -6,6 +6,10 @@ Inspired by our commitment to transparency, efficiency, and customer satisfactio
 
 Our engagement with the open source community has been multifaceted. Southwest Airlines actively contributes to existing projects, develops new open source tools, and collaborates with developers and organizations worldwide. This approach not only enhances our technical capabilities but also establishes Southwest as an industry leader in open source adoption.
 
+***
+### Open source is not about publishing your favorite recipe, it's about sharing your kitchen with strangers.
+***  
+
 Some key projects within the initiative include the development of an open source flight scheduling system, a real-time baggage tracking platform, and an AI-powered customer support chatbot. These projects, among others, are designed to streamline our operations and enhance the travel experience for our customers.
 
 By embracing open source, Southwest Airlines differentiates itself from competitors by fostering a culture of innovation and collaboration. This approach enables us to quickly adapt to industry changes and to consistently deliver a superior experience to our customers.
