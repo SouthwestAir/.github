@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-We take security seriously at Southwest Airlines and appreciate your help in responsibly disclosing any security vulnerabilities you may find. If you discover a vulnerability, please report it to us by sending an email to TechnologyInnovation-DG@wnco.com or creating a new GitHub issue in the affected repository.
+We take security seriously at Southwest Airlines and appreciate your help in responsibly disclosing any security vulnerabilities you may find. If you discover a vulnerability, please report it to us by creating a new GitHub issue in the affected repository.
 
 ### Guidelines for Responsible Disclosure
 
@@ -15,7 +15,6 @@ Please follow these guidelines when reporting a vulnerability:
 ## Security Practices
 
 - Our open source projects are intended to help build a community, share code, teach others, and gain insights from outside our organization.
-- We use iOS and Firestore, among other technologies, but no known security concerns have been identified.
 - No sensitive data is stored in our open source projects, and our cybersecurity team routinely reviews them.
 - We do not currently implement authentication in our open source projects.
 - We follow PCI compliance guidelines in our projects.
